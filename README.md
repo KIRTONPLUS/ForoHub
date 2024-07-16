@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un Foro sobre distintas materias tales como CALCULO, DESARROLLO, GESTION, DATABASES,
+Este proyecto es un Foro sobre distintas materias tales como CÁLCULO, DESARROLLO, GESTION, DATABASES,
 y MATEMATICA. En la cual el usario puede exponer diferentes temas y/o dudas relacionados con dichas materias.
 
 El sistema:
@@ -13,7 +13,6 @@ El sistema:
 
 ## Tecnologías Utilizadas
 
-- Mac Os ![OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 - Intellij IDEA ver. 2024.1.1 ![IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - JDK de Java 21.0.2 ![JDK](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - Servidor Xampp Apache ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
