@@ -1,8 +1,5 @@
 # FORO-HUB
 
-![Foro-Hub-Alura](img/Foro-Hub-Banner.png)
-
-
 ## Descripción
 
 Este proyecto es un Foro sobre distintas materias tales como CALCULO, DESARROLLO, GESTION, DATABASES,
@@ -96,13 +93,3 @@ Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [
 8. Asegurate de instalar las dependencias adiconales de Spring Security, Auth0, Flywaydb y Lombok.
 9. Para el testeo de la API se puede utlizar la interfaz grafica de Swagger así como la API de Insomnia. 
 
-
-## Autor
-Mario Alberto Valerdi Garduño
-[Linkedin Mario Valerdi](https://www.linkedin.com/in/mariovalerdi).
-
-
-#### Anotaciones finales:
-Challenge "FORO-HUB".
-Del curso Java con Spring Boot, Spring Security, JWT.
-proyecto final de ALURA Latam, Oracle ONE G6
