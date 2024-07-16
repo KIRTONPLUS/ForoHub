@@ -79,7 +79,7 @@ El proyecto se encuentra en su versión 1.0.0.
 
 ## Acceso al Proyecto
 
-Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [GitHub Foro-Hub](https://github.com/MAValerdi/Foro-Hub).
+Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [GitHub Foro-Hub](https://github.com/KIRTONPLUS/ForoHub.git).
 
 ## Instrucciones de Uso
 
